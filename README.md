@@ -22,4 +22,10 @@ Voici nos 4 modélisation de la bibliothèque.
 ![](https://github.com/are2019-l0-a1a2/Remplissage-d-une-biblioth-que/blob/master/moviemakeronline.com.190414-216bd46e-236a-4c3f-8995-246ac7d7d703.gif)
 
 
-Notre Modèle est adaptable pour d'autre bibliothèque.
+Notre modèle est adaptable pour d'autres bibliothèques.
+
+## [Presentation Transparents](https://docs.google.com/presentation/d/14gsz5m5VDb4kkTZ778Nwgb0Scrl6cwofUTWyFTR4yaY/edit#slide=id.p)
+
+René Meng
+Mandri Benaragama
+Sebastien Tuaux
