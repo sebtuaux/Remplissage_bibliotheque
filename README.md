@@ -24,9 +24,10 @@ Voici nos 4 modélisations de la bibliothèque.
 
 Notre modèle est adaptable pour d'autres bibliothèques.
 
-## [Presentation Transparents](https://docs.google.com/presentation/d/14gsz5m5VDb4kkTZ778Nwgb0Scrl6cwofUTWyFTR4yaY/edit#slide=id.p)
-## [Rapport du projet:] 
-(https://docs.google.com/document/d/1j2_NXddb1iYsj1IUHfr4AO0gWIs-2UJiwAke-wSQo0s/edit?usp=drivesdk) 
+## [Présentation Transparents](https://docs.google.com/presentation/d/14gsz5m5VDb4kkTZ778Nwgb0Scrl6cwofUTWyFTR4yaY/edit#slide=id.p)
+
+## [Rapport du projet](https://docs.google.com/document/d/1j2_NXddb1iYsj1IUHfr4AO0gWIs-2UJiwAke-wSQo0s/edit?usp=drivesdk) 
+
 René Meng
 Mandri Benaragama
 Sebastien Tuaux
